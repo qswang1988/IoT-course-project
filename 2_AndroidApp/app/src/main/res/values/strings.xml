@@ -1,0 +1,22 @@
+<resources>
+    <!-- <string name=""></string>  -->
+    <string name="app_name">IoT Prototype</string>
+    <string name="broker">tcp://108.61.170.32:1883</string>
+    <string name="broker_host">108.61.170.32</string>
+    <string name="broker_port">1883</string>
+    <string name="qos">2</string>
+    <string name="mqtt_client_id">paho408696053355968</string>
+    <string name="topic_command">S/command</string>
+    <string name="topic_request">S/request_info</string>
+    <string name="topic_recv">R/update</string>
+    <string name="home_region">stockholm</string>
+    <string name="home_country">se</string>
+    <string name="weather_api_key">2664c403bdmshb569b98930f9fc4p1e49c1jsn297532fa94c2</string>
+    <string name="title_activity_my_home2">MyHomeActivity2</string>
+    <string name="tab_text_1">Bedroom</string>
+    <string name="tab_text_2">Living Room</string>
+    <string name="tab_text_3">Guest Room</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
